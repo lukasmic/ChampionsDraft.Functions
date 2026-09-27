@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ChampionsDraft.Functions.AppHost/ChampionsDraft.Functions.AppHost.csproj" />
+  <Project Path="ChampionsDraft.Functions.ServiceDefaults/ChampionsDraft.Functions.ServiceDefaults.csproj" />
+  <Project Path="ChampionsDraft.Functions/ChampionsDraft.Functions.csproj" />
+</Solution>
